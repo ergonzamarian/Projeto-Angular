@@ -4,7 +4,7 @@
 
 Neste repositório consta meus estudos com o FrameWork Angular 
 
-O Angular traz facilidades magnificas para criação de um projeto, desde da sua criação, passando pelo desenvolvimento e término do projeto, aqui abaixo vou colocar algumas faclidades que podem também srem encontradas no site oficial do Angular CLI:
+O Angular traz facilidades magnificas para criação de um projeto, desde da sua criação, passando pelo desenvolvimento e término do projeto, aqui abaixo vou colocar algumas faclidades que podem também serem encontradas no site oficial do Angular CLI:
 
 ____
 **Criar um projeto** (Angular Workspace)
